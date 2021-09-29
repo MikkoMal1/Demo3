@@ -5,3 +5,6 @@ p {color: green;}
 ol {color: white;}
 ul {color: white;}
 body {background-color: black;}
+.myDiv {border-style:dotted;
+border-width:2px;
+border-height:100 px;}
