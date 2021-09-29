@@ -6,6 +6,7 @@ ol {color: white;}
 ul {color: white;}
 body {background-color: black;}
 .myDiv{border:dotted ;
+border-color: yellow;
 border-width: 2px;
 width: 100px;
 height: 100px;}
