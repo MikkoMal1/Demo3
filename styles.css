@@ -1,12 +1,13 @@
+body {background-image: url(Sivuston-tausta.jpg);
+    background-color: black;
+    background-color: transparent;}
 h1 {font-size: 20px;}
 h1 {color: white;}
 p {font-size: 12px;}
 p {color: green;}
 ol {color: white;}
 ul {color: white;}
-body {background-image: url(Sivuston-tausta.jpg);
-background-color: black;
-background-color: transparent;}
+
 .myDiv{border:dotted ;
 border-color: yellow;
 border-width: 2px;
