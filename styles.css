@@ -33,5 +33,6 @@ h2 {color: white;}
 p2{color:green;
 font-size: 10px;}   
 .para2 {border: radius 25px;
+border-color: green;
 width:3cm ;
 height: 1cm;}
