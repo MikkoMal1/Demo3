@@ -21,9 +21,11 @@ height: 200px;}
 figcaption {color: yellow;}
 h2 {color: white;}
 
-.Otsikko1 {border-color: white;
+.Otsikko1 {border:solid
+    border-color: white;
     border-width: 10cm;
     height:2cm ;}
-.Otsikko2 {border-color: white;
+.Otsikko2 {border:solid
+    border-color: white;
     border-width: 6cm;
 height:2cm ;}
