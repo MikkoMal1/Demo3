@@ -14,11 +14,7 @@ height: 100px;}
 
 .mydiv2{text-align: left;}
 .mydiv3{text-align: left;}
-.img{width: 200px;
-height: 200px;}
-.img2{width: 200px;
-height: 200px;}
-figcaption {color: yellow;}
+
 h2 {color: white;}
 
 .Otsikko1 {border:solid;
@@ -35,10 +31,16 @@ width:3cm ;
 height: 1cm;
 margin-bottom: 3cm;}
 
+.img{width: 200px;
+height: 200px;}
+.img2{width: 200px;
+height: 200px;}
+figcaption {color: yellow;}
+
 .Otsikko2 {border:solid;
 padding: 0.2cm;
 border-color: white;
 width: 5cm;
 height: 0.5cm;}
-
 h2 {margin-bottom: 2cm;}
+
