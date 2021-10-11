@@ -25,8 +25,9 @@ height: 1cm;}
 
 p2 {color:green;
 font-size: 10px;}   
-p2 {border: radius 25px;
+p2 {border: solid;
 border-color: white;
+border-radius: 25px;
 width:3cm ;
 height: 1cm;
 margin-bottom: 3cm;}
