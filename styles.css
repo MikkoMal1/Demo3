@@ -22,10 +22,12 @@ figcaption {color: yellow;}
 h2 {color: white;}
 
 .Otsikko1 {border:solid;
+    padding: 0.2cm;
     border-color: white;
     width: 7cm;
     height: 1cm;}
 .Otsikko2 {border:solid;
+    padding: 0.2cm;
     border-color: white;
     width: 5cm;
     height: 1.5cm;}
