@@ -27,12 +27,12 @@ h2 {color: white;}
     width: 7cm;
     height: 1cm;}
 
-.p2{color:green;
-        font-size: 10px;}   
-        .para2 {border: radius 25px;
-        border-color: green;
-        width:3cm ;
-        height: 1cm;}
+p2 {color:green;
+     font-size: 10px;}   
+.para2 {border: radius 25px;
+    border-color: green;
+    width:3cm ;
+    height: 1cm;}
 
 .Otsikko2 {border:solid;
     padding-bottom: 0.2cm;
