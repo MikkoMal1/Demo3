@@ -22,13 +22,13 @@ padding: 0.2cm;
 border-color: white;
 width: 7cm;
 height: 1cm;
-margin-bottom: 5cm;}
+margin-bottom: 1cm;}
 
 p2 {color:green;
 font-size: 10px;}   
 p2 {border: solid;
-border-color: white;
-border-radius: 25px;
+border-color: green;
+border-radius: 3cm;
 width:3cm ;
 height: 1cm;
 margin-bottom: 3cm;}
