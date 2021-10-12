@@ -31,7 +31,8 @@ border-color: green;
 border-radius: 45px;
 width:3cm ;
 height: 1cm;
-margin-bottom: 3cm;}
+margin-bottom: 3cm;
+background-color: white;}
 
 .img{width: 200px;
 height: 200px;}
@@ -45,4 +46,5 @@ border-color: white;
 width: 3cm;
 height: 0.5cm;}
 h2 {margin-bottom: 0.1cm;}
+
 
