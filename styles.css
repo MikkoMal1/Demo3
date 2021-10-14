@@ -59,8 +59,9 @@ padding-bottom: 20px;}
 
 .nav {float:left;
 width: 70px;
-height: 100 px;
+height: 200 px;
 text-align: left;
+word-wrap: break-word;
 background-color: darkgrey;}
 
 
