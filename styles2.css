@@ -9,3 +9,8 @@ text-align: left;
 background-color: darkgrey;
 color: darkred;
 font-size: 0.5cm;}
+
+.section {padding: 20px;
+text-align: left;
+background-color: grey;
+color: blue;}
