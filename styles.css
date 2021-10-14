@@ -57,6 +57,7 @@ font-size: 12px;}
 .nav {display: block;
 width: 60px;
 padding: 10px;
+text-align: left;
 background-color: darkgrey;}
 
 
