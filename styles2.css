@@ -3,3 +3,9 @@ text-align: center;
 background-color: lightgrey;
 color: darkblue;
 font-size: 1cm;}
+
+.nav {padding: 10px;
+text-align: left;
+background-color: darkgrey;
+color: darkred;
+font-size: 0.2cm;}
