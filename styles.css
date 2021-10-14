@@ -65,7 +65,7 @@ height: 100px;
 text-align:left;
 background-color: darkgrey;}
 
-section {float: left;
+section {float:auto;
 background-color: blueviolet;
 color: white;}
 
