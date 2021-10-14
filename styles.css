@@ -54,5 +54,8 @@ h3 {color:white;}
 p3 {color: whitesmoke;
 font-size: 12px;}
 
+.nav {display: block;
+width: 60px;
+color: rgb(46, 45, 45);}
 
 
