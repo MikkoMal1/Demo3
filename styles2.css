@@ -18,8 +18,10 @@ font-size: 0.5cm;}
 padding: 20px;
 text-align: left;
 background-color: grey;
-color: blue;}
+color: blue;
+float: left;}
 
 img {position: absolute;right: 0%;
 width: 4.5cm;
-height: 6cm;}
+height: 6cm;
+float:right}
