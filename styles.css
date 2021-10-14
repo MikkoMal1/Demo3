@@ -57,7 +57,8 @@ margin: 10px;
 margin-bottom: 10px;
 padding-bottom: 20px;}
 
-.nav {float:left;
+.nav {float: left;
+position: absolute; nav-left: auto;
 width: 70px;
 height: 200 px;
 text-align: left;
