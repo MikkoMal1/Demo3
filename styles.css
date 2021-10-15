@@ -68,8 +68,9 @@ padding: 5px;
 width: 65px;
 height: 100px;
 text-align:left;
-background-color: darkgrey;
-}
+background-color: darkgrey;}
+a:hover {color: red;
+text-decoration: underline overline;}
 
 .section {float: right;
 width: 93.6%;
