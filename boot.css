@@ -6,15 +6,22 @@ background-color: rgb(252, 202, 184);
 margin-bottom: 0.5cm;}
 
 .row {float: left;
-width: 50%;}
+width: 50%;
+background-color: black;
+color: white;}
 
-.col-sm-4 {column-width: 33%;
-column-count: auto;
-column-rule-color: rgb(248, 140, 100);}
+.col-sm-4 {float: left;
+width: 33.33%;}
+
+
 
 .row2 {float: right;
+width: 50%;
+background-color: black;
+color: white;}
+
+
+
+.col-sm-6 {float: right;
 width: 50%;}
 
-.col-sm-6 {column-width: 50%;
-    column-count: auto;
-    column-rule-color: rgb(248, 140, 100);}}
