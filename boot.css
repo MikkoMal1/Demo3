@@ -11,7 +11,8 @@ margin-bottom: 0.5cm;}
 .row {float: left;
 background-color: black;
 color: white;
-width: 50%;}
+width: 50%;
+column-count: auto;}
 
 .col-md-4 {float: left;
 column-width: 33.33%;}
@@ -19,7 +20,8 @@ column-width: 33.33%;}
 .row2 {float: right;
 background-color: black;
 color: white;
-width: 50%;}
+width: 50%;
+column-count: auto;}
 
 
 
