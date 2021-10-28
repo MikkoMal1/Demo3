@@ -12,7 +12,7 @@ margin-bottom: 0.5cm;}
 background-color: black;
 color: white;
 width: 50%;
-column-count:3;}
+column-count:auto;}
 
 .col-sm-4 {float: left;
 column-width: 33.33%;}
@@ -21,7 +21,7 @@ column-width: 33.33%;}
 background-color: black;
 color: white;
 width: 50%;
-column-count: 2;}
+column-count: auto;}
 
 
 
