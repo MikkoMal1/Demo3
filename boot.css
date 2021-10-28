@@ -5,23 +5,26 @@ font-size: 25px;
 background-color: rgb(252, 202, 184);
 margin-bottom: 0.5cm;}
 
+.container {display: flex;
+flex-direction: row;}
+
+
 .row {float: left;
-width: 50%;
 background-color: black;
-color: white;}
+color: white;
+width: 50%;}
 
 .col-sm-4 {float: left;
-width: 33.33%;}
-
+column-width: 33.33%;}
 
 
 .row2 {float: right;
-width: 50%;
 background-color: black;
-color: white;}
+color: white;
+width: 50%;}
 
 
 
 .col-sm-6 {float: right;
-width: 50%;}
+column-width: 50%;}
 
