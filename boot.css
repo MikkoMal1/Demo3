@@ -13,8 +13,8 @@ background-color: black;
 color: white;
 width: 50%;}
 
-
-
+.col-md-4 {float: left;
+column-width: 33.33%;}
 
 .row2 {float: right;
 background-color: black;
@@ -23,6 +23,6 @@ width: 50%;}
 
 
 
-.col-sm-6 {float: right;
+.col-md-6 {float: right;
 column-width: 50%;}
 
