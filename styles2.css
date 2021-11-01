@@ -1,4 +1,4 @@
-body {width: 90%;
+body {width: 98%;
 margin-left: auto;
 margin-right: auto;
 background-color: darkgrey;}
@@ -7,13 +7,29 @@ background-color: darkgrey;}
 text-align: center;
 background-color: lightgrey;
 color: darkblue;
-font-size: 1cm;}
+font-size: 1cm;
+margin-bottom: 20px;}
+
+p{text-align: center;
+color: rgb(49, 49, 231);
+font-size: 0.3cm;}
 
 .nav {padding: 15px;
 text-align: left;
-background-color: whitesmoke;
+background-color: lightgrey;
 color: darkred;
-font-size: 0.5cm;}
+font-size: 0.5cm;
+width: 85px;
+height: 180px;
+border: radius 15px; ;}
+
+a:hover {background-color:rgb(131, 129, 129 ;
+text-decoration: none;
+color:white }
+
+
+
+
 
 .section {width: 50%;
 padding: 20px;
