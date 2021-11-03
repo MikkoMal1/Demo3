@@ -57,15 +57,17 @@ body {width: 98%;
     color: black;
     font-size: 50px;
     padding-left: 5px;
-    padding-bottom: 50px;
-    height: 80px;}
+    padding-bottom: 70px;
+    padding-top: 5px;
+    height: 60px;
+    background-color: rgb(206, 147, 147);}
 
     .Osa1{width: 95%;}
     h2{text-align: left;
     color: black;
     font-size: 35px;
     position: absolute;
-    top: 75px;}
+    top: 95px;}
     .toinen {float: left;
     text-align: left;
     width: 300px;
@@ -104,8 +106,8 @@ body {width: 98%;
     height: 48%;}
 
 
-    .Homebutton{position: absolute; right: 10px;
-    top: 10px;
+    .Homebutton{position: absolute; right: 13px;
+    top: 8px;
     border-style: solid;
     border-width: 2px;
     border: height 30px;
@@ -121,4 +123,32 @@ body {width: 98%;
     .Homebutton a:hover {background-color:rgb(107, 105, 105);
     color:white; }
 
+    .header3{font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    color: black;
+    font-size: 50px;
+    padding-left: 5px;
+    padding-bottom: 50px;
+    padding-top: 5px;
+    height: 80px;
+    background-color: rgb(135, 129, 160);}
+
+    h4 {color: black;
+    font-size: 30px;
+    position: absolute;
+    top: 120px;}
+
+    .forms {position: absolute;
+    top: 200px;}
+
+
+    .kiitosdiv {font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    color: black;
+    font-size: 50px;
+    padding-left: 5px;
+    padding-bottom: 50px;
+    padding-top: 5px;
+    height: 80px;}
+    
     
