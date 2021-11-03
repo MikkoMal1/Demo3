@@ -97,4 +97,26 @@ body {width: 98%;
     font-size: 20px;
     padding-left: 5px;}
 
-    
+    .img2 {float: left;
+    position: absolute;
+    top: 536px;
+    left: 330px;
+    height: 48%;}
+
+
+    .Homebutton{position: absolute; right: 10px;
+    top: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border: height 30px;
+    width: 57px;
+    border-radius: 4px;
+    text-align: center;
+    border-color: black;}
+    .Homebutton a {
+    display: block;
+    text-decoration: none;
+    padding: 5px;
+    color: black;}   
+    .Homebutton a:hover {background-color:rgb(107, 105, 105);
+    color:white; }
