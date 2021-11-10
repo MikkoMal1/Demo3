@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel="stylesheet" href="styles4.css">
+        <link rel="stylesheet" href="styletable.css">
         <title>Home page</title>
         <meta charset="utf-8" />
     </head>
     <body>
 
+     <div class="table"> 
     <table>
         <tr>
             <h1>Otsikko1</h1>
@@ -30,26 +31,34 @@
             </colgroup>
         </tr>
     </table>
+    </div> 
 
     <div class="form1">
-        <form>
+        <form action="https://www.w3schools.com/action_page.php">
             <label for="fname">First name:</label><br>
             <input type="text" id="fname" name="fname"required><br>
             <label for="lname">Last name:</label><br>
             <input type="text" id="lname" name="lname" required><br>
             <label for="lname">Email:</label><br>
             <input type="email" id="email" name="email"required><br>
-          </form>
-    </div>
-    <div class="form2">
+
         <div class="textiboxi">
-        <form>
             <label for="textiboxi">Textiä:</label><br>
             <textarea id="textiboxi" name="textiboxi" rows="4" cols="80"> </textarea>
         </div>
-        </form>
-        <form action="https://mikkomal1.github.io/Demo3/kiitos.html">
 
+        <input type="checkbox" id="checkboxi" name="joo" value="joo">
+        <label for="checkboxi"> Tilaappa tää</label><br>
+
+        <div class="checklist">
+        <input type="radio" id="html" name="fav_language" value="HTML">
+        <label for="html">HTML</label><br>
+        <input type="radio" id="css" name="fav_language" value="CSS">
+        <label for="css">CSS</label><br>
+        <input type="radio" id="javascript" name="fav_language" value="JavaScript">
+        <label for="javascript">JavaScript</label>
+        </div>
+        <div class="submit"><input type="submit" value="Submit"> <br> </div>
         </form>
     </div>
     
