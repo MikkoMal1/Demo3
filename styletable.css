@@ -1,0 +1,23 @@
+body{background-color: rgb(218, 192, 241);
+font-family: sans-serif;}
+
+table, th, td {
+border: 1px solid black;
+}
+
+.table {padding: 10px;}
+
+h1{font-size: 40px;
+color: black;
+padding: 10px;}
+
+h2{font-size: 30px;
+color: black;
+padding: 10px;}
+
+.form1 {position: absolute;
+top: 300px;
+padding: 10px;}
+
+
+
