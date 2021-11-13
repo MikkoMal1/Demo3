@@ -1,0 +1,10 @@
+body {background-color: blanchedalmond;}
+
+.navbar {background-color: rgb(29, 29, 29);
+width: 100%;}
+
+.navbar a{text-decoration: none;
+padding: 10px;
+color:rgb(202, 198, 198) ;}
+.navbar a:active {background-color:rgb(0, 0, 0);
+color:white;}
