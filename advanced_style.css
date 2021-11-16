@@ -1,7 +1,6 @@
 body{background-color: tan;}
 
-@media only screen and (max-width: 800px) {
-    body {background-color: black;color: white;}
+@media screen and (max-width: 800px) {body {background-color: black;color: white;}
 }
 .header{text-align: center;
 padding: 5px;
