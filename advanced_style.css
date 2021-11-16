@@ -1,8 +1,8 @@
 body{background-color: tan;}
 
-@media screen and {body {size: 800px;}   
+@media only screen and (max-width: 800px) {
+    body {background-color: black;color: white;}
 }
-
 .header{text-align: center;
 padding: 5px;
 width: 150px;
