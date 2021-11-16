@@ -1,6 +1,7 @@
-@media only screen and (max-width: 800px) {
-    body {
-      background-color: lightblue;color: white;
+body{background-color: tan;}
+
+@media screen and (max-width: 800px) {
+    body {background-color: lightblue;color: white;
     }
   }
 
