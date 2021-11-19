@@ -1,4 +1,12 @@
 @media only screen and (max-width: 800px) {body {background-color: black;color: white;}
 }
 
-.body{background-color: rgb(185, 123, 243);}
+body{background-color: rgb(217, 190, 241);}
+
+.nav {background-color:rgb(116, 106, 106) ;
+height: 50px;}
+.nav a:hover {background-color:rgb(0, 0, 0);
+color:white;
+text-decoration: none;}
+.nav a {text-decoration: none; padding: 10px;
+color: darkblue;}
