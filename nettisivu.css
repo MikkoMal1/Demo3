@@ -1,4 +1,4 @@
-@media only screen and (max-width: 800px) {body {background-color: black;color: white;}
+@media only screen and (max-width: 800px) {body {nav-left: auto;}
 }
 
 body{background-image: url(Kuva/background4.jpg);
@@ -38,3 +38,4 @@ position: absolute;left: 10%;
 top: 30%;
 height: 200px;}
 h2{font-size: 80px;}
+
