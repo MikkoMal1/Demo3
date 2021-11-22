@@ -9,7 +9,6 @@ margin-right: auto;}
 
 .navbar {
 height: 50px;
-
 position: fixed; 
 top: 0; 
 width: 80%;
@@ -20,7 +19,7 @@ font-size: 25px;
 text-align: right;
 color: white;
 float: right;
-padding-left: 10px;
+padding-left: 2.5%;
 padding-top: 5px;
 padding-right: 30%;}
 
