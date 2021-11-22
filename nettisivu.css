@@ -1,4 +1,4 @@
-@media only screen and (max-width: 700px) {body {nav-left:auto;}
+@media only screen and (max-width: 700px) {body {nav-left:auto;} .col{width: 50%;}
 }
 
 body{background-image: url(Kuva/background4.jpg);
