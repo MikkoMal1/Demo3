@@ -10,7 +10,8 @@ margin-right: auto;}
 
 .navbar {background-color: rgb(61, 50, 50);
 height: 50px;
-position: fixed; 
+position: fixed;
+overflow: hidden; 
 top: 0; 
 width: 98%;}
 
