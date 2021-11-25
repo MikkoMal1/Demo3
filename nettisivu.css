@@ -28,7 +28,8 @@ color:white;
 text-decoration: none;}
 .navbar a {text-decoration: none; padding:10px;
 color: white;
-text-align: right;}
+text-align: right;
+display: block;}
 .navbar a:active{background-color: rgb(38, 38, 124);}
 
 .header{text-align: center;
