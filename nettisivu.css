@@ -50,7 +50,7 @@ margin-bottom: 2%;}
 
 .container{
 display: table;
-position: absolute; top: 40%;}
+position: absolute; top: 20%;}
 
 .row {width: 50%;
 word-wrap: break-word;
@@ -68,7 +68,7 @@ color: white;}
 
 .container2{
 display: table;
-position: absolute; top: 50%;
+position: absolute; top: 53%;
 padding-left: 20px;}
 
 .col-md- {float: left;
@@ -85,3 +85,11 @@ word-wrap: break-word;}
 
 h6{text-align: left;}
 
+p{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+.container3{padding-left: 10px;
+position: absolute; top: 20%;
+width: 50%;
+word-wrap: break-word;
+color: white;}
+
+h7{text-align: left;}
