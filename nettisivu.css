@@ -1,5 +1,3 @@
-@media only screen and (max-width: 767px) { .navbar{width: 100%;}  h1{padding-right: 10%;}.container2 {position: absolute; top: 70%;}.section{width: 100%;}
-}
 
 body{background-image: url(Kuva/background4.jpg);
 width: 99%;
@@ -90,3 +88,6 @@ word-wrap: break-word;
 color: white;}
 
 h7{text-align: left;}
+
+@media only screen and (max-width: 767px) { .navbar{width: 100%;}  h1{padding-right: 10%;}.container2 {position: absolute; top: 70%;}.section{width: 100%;}
+}
