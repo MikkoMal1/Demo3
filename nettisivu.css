@@ -1,4 +1,4 @@
-@media screen and (max-width: 800px) {.navbar{width: 60%;}  h1{padding-right: 15%;} .navbar a{
+@media only screen and (max-width: 800px) {.navbar{width: 60%;}  h1{padding-right: 15%;} .navbar a{
     width: 100%;} .container2 {position: absolute; top: 63%;}.section{width: 100%;}
 }
 
@@ -9,6 +9,7 @@ margin-right: auto;}
 
 .navbar {background-color: rgb(61, 50, 50);
 height: 60px;
+position: fixed;
 overflow: hidden; 
 top: 0; 
 width: 100%;}
