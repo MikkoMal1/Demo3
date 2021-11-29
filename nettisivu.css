@@ -72,7 +72,7 @@ position: absolute; top: 60%;
 padding-left: 20px;}
 
 .col-md- {float: left;
-width: 50%;
+width: 100%;
 display: table-cell;
 padding-bottom: 20px;
 }
